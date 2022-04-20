@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://foglar.github.io/404-not-found-devchallenge/">
+    <a href="https://www.figma.com/file/QeKWLNhB13zDjJzqR22TKE/404-page-challenge?node-id=1%3A4">
       Demo
     </a>
     <span> | </span>
